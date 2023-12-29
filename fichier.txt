@@ -1,0 +1,24 @@
+tototom toto tototototom abc abcd abcde lolo lololo 1234567890 aaaaaaaaaaaaaaaaaaaaaaaaaaa 1234 undeuxtroisquatre
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+zzzzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzzzzrrrrrrrr
+rrrrrrrrrrr
+qoicoubeh
+jjjjj
+jjjjjlllllllllll
+llllll
+mmmmmmmm
+nnnnnnnnnnnn
+1234567 client : semaine de 7 jours
+0000000 client : don't trust : Veuillez saisir vos login et mot de passe, je n'écoute pas vos touches ☺☺☺
+1111111 client : fiable ! : pas de remonté de compteur
+5555555 client : give me 5 ♥♥♥♥♥ : compteur à jour : régul OK
+5555655 noSerie : give me 6 ♥♥♥♥♥♥ : n°Série matériel inconnu dans EBP : action exécuter la requête d'archivage en base IVNI depuis le requêteur
+5555755 client : give me 7 ♥♥♥♥♥♥♥ : pas de régul : last 2020 : action contrôle matériel client à prévoir
+5555855 client : give me 8 ♥♥♥♥♥♥♥♥ : pas de régul : last 2021 : action contrôle matériel client à prévoir
+__Allahouma inni as alouka al afwa y el afia || <3 first <3 
+IamYalidWallamYoulad
+BEST AT THE MOMENT Well come C1 ''' G2 ''' I3 <3 Am I inside ? 
+Don't Worry Be Happy ! :p
+@tototom7 github.com/tototom7 Bienvenue Bienvenido Welcome Benvenuti Herzlich willkommen ;)
+exec =>     public function start(){if ($this->command != '')$this->runCom();else return true;echo "DB ennemy Clear <3 XoXo Croissant Pain au chocolatine tout le monde content";}
